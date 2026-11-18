@@ -1,0 +1,4 @@
+[submodule "roccacr"]
+	path = roccacr
+	url = git@git.vauxoo.com:vauxoo/roccacr.git
+	branch = 20.0-t106833-init-project-hadan
